@@ -56,14 +56,13 @@ sidebar = html.Div(
     className="sidebar",
 )
 
-
 content = html.Div(
     className="page-content",
 )
 
 # defining font-awesome (icons) and fonts
 app.index_string = """
-<!DOCTYPE html>
+<!DOCTYPE html lang=es>
 <html>
     <head>
         {%metas%}
