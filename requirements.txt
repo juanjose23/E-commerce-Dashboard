@@ -12,6 +12,7 @@ dash-table==5.0.0
 fastparquet==2024.11.0
 Flask==3.0.3
 fsspec==2025.3.0
+gunicorn==23.0.0
 idna==3.10
 importlib_metadata==8.6.1
 itsdangerous==2.2.0
